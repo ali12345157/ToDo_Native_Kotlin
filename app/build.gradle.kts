@@ -48,6 +48,7 @@ dependencies {
     implementation(libs.androidx.constraintlayout)
     implementation(libs.androidx.room.runtime)
     implementation(libs.androidx.ui.graphics.android)
+    implementation(libs.androidx.constraintlayout.core)
     ksp(libs.androidx.room.compiler)
     implementation(libs.material.calendarview)
 

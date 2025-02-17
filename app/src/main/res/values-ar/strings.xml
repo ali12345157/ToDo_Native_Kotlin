@@ -4,12 +4,12 @@
     <string name="to_do_list">قائمة المهام</string>
     <string name="tasks">المهام</string>
     <string name="settings">الإعدادات</string>
-    <string name="enter_your_task">" أدخل المهمة"</string>
-    <string name="enter_task_description">تفاصيل</string>
-    <string name="select_date">التاريخ</string>
-    <string name="select_time">الوقت</string>
+    <string name="enter_your_task">أدخل المهمة</string>
+    <string name="enter_task_description">أدخل تفاصيل المهمة</string>
+    <string name="select_date">اختر التاريخ</string>
+    <string name="select_time">اختر الوقت</string>
     <string name="title">العنوان</string>
-    <string name="description">التفاصيل</string>
+    <string name="description">الوصف</string>
     <string name="add_new_task">إضافة مهمة جديدة</string>
     <string name="add_task_title">رجاء قم بإدخال عنوان المهمة</string>
     <string name="add_task_date">رجاء قم باختيار تاريخ المهمة</string>
@@ -18,8 +18,24 @@
     <string name="save">حفظ</string>
     <string name="language">اللغة</string>
     <string name="mode">وضع الشاشة</string>
-    <string name="light">Light</string>
-    <string name="dark">Dark</string>
-    <string name="english">English</string>
+    <string name="light">مضيء</string>
+    <string name="dark">ليلي</string>
+    <string name="english">اللغة الإنجليزية</string>
+    <string name="arabic">اللغة العربية</string>
+    <string name="select_language">اختر اللغة</string>
+    <string name="select_mode">اختر وضع الشاشة</string>
+    <string name="title_required" translatable="false">العنوان مطلوب</string>
+    <string name="required_field" translatable="false">الحقل مطلوب</string>
+    <string name="invalid_date">تاريخ غير صحيح</string>
+    <string name="invalid_time">وقت غير صحيح</string>
 
+    <string-array name="languages">
+        <item>اللغة الإنجليزية</item>
+        <item>اللغة العربية</item>
+    </string-array>
+
+    <string-array name="modes">
+        <item>مضيء</item>
+        <item>ليلي</item>
+    </string-array>
 </resources>

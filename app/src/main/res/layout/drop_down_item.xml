@@ -5,5 +5,7 @@
     android:fontFamily="@font/poppins_bold"
     android:padding="14dp"
     android:textColor="@color/blue"
+    android:layoutDirection="locale"
+
     tools:text="English" />
 

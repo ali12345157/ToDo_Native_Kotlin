@@ -19,11 +19,14 @@
     <string name="mode">Mode</string>
     <string name="light">Light</string>
     <string name="dark">Dark</string>
+    <string name="arabic">Arabic</string>
+    <string name="select_language">Select Language</string>
+    <string name="select_mode">Select Mode </string>
+    <string name="invalid_date">Invalid Date</string>
+    <string name="invalid_time">Invalid Time </string>
     <string name="english">English</string>
     <string name="title_required" translatable="false">Title Required</string>
     <string name="required_field" translatable="false">Required Field</string>
-    <string name="invalid_date">invalid_date</string>
-    <string name="invalid_time">invalid_time</string>
 
     <string-array name="languages">
         <item>English</item>
